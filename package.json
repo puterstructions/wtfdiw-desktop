@@ -1,0 +1,22 @@
+{
+  "name": "wtfdiw-desktop",
+  "version": "0.1.0",
+  "description": "Electron app for WTFDIW",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puterstructions/wtfdiw-desktop.git"
+  },
+  "author": "puter structions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puterstructions/wtfdiw-desktop/issues"
+  },
+  "homepage": "https://github.com/puterstructions/wtfdiw-desktop#readme",
+  "devDependencies": {
+    "electron": "^1.4.4"
+  }
+}
